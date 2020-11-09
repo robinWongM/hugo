@@ -14,7 +14,7 @@
 package commands
 
 import (
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 var _ cmder = (*genCmd)(nil)

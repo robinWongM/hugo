@@ -24,7 +24,7 @@ import (
 	"github.com/gohugoio/hugo/common/loggers"
 	"github.com/gohugoio/hugo/config"
 	"github.com/gohugoio/hugo/helpers"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 type commandsBuilder struct {

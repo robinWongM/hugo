@@ -28,7 +28,7 @@ import (
 
 	"github.com/gohugoio/hugo/common/types"
 
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 	"github.com/spf13/viper"
 
 	qt "github.com/frankban/quicktest"

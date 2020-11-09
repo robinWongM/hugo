@@ -13,7 +13,7 @@
 
 package commands
 
-import "github.com/spf13/cobra"
+import "github.com/robinWongM/cobra"
 
 func init() {
 	// This message to show to Windows users if Hugo is opened from explorer.exe

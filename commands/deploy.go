@@ -19,7 +19,7 @@ import (
 	"context"
 
 	"github.com/gohugoio/hugo/deploy"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 var _ cmder = (*deployCmd)(nil)

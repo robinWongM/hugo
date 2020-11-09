@@ -16,7 +16,7 @@ package commands
 import (
 	"github.com/gohugoio/hugo/hugolib"
 	"github.com/gohugoio/hugo/modules/npm"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 func newModNPMCmd(c *modCmd) *cobra.Command {

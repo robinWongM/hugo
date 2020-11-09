@@ -37,7 +37,7 @@ import (
 	"github.com/gohugoio/hugo/common/loggers"
 	"github.com/gohugoio/hugo/config"
 
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 
 	"github.com/gohugoio/hugo/hugolib"
 	"github.com/spf13/afero"

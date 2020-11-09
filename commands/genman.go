@@ -20,8 +20,8 @@ import (
 	"github.com/gohugoio/hugo/common/hugo"
 	"github.com/gohugoio/hugo/helpers"
 	"github.com/gohugoio/hugo/hugofs"
-	"github.com/spf13/cobra"
-	"github.com/spf13/cobra/doc"
+	"github.com/robinWongM/cobra"
+	"github.com/robinWongM/cobra/doc"
 	jww "github.com/spf13/jwalterweatherman"
 )
 

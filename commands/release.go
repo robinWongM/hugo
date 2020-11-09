@@ -20,7 +20,7 @@ import (
 
 	"github.com/gohugoio/hugo/config"
 	"github.com/gohugoio/hugo/releaser"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 var _ cmder = (*releaseCommandeer)(nil)

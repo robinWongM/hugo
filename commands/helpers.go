@@ -20,7 +20,7 @@ import (
 	"regexp"
 
 	"github.com/gohugoio/hugo/config"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 const (

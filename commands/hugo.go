@@ -56,7 +56,7 @@ import (
 	"github.com/gohugoio/hugo/livereload"
 	"github.com/gohugoio/hugo/watcher"
 	"github.com/spf13/afero"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 	"github.com/spf13/fsync"
 	jww "github.com/spf13/jwalterweatherman"
 )

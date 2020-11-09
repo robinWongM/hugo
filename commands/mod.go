@@ -23,7 +23,7 @@ import (
 	"github.com/gohugoio/hugo/hugolib"
 
 	"github.com/gohugoio/hugo/modules"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 )
 
 var _ cmder = (*modCmd)(nil)

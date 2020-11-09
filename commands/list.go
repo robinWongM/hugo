@@ -22,7 +22,7 @@ import (
 
 	"github.com/gohugoio/hugo/hugolib"
 	"github.com/gohugoio/hugo/resources/resource"
-	"github.com/spf13/cobra"
+	"github.com/robinWongM/cobra"
 	jww "github.com/spf13/jwalterweatherman"
 )
 
